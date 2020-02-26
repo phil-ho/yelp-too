@@ -1,8 +1,6 @@
-Demonstration of Yelp front page layout using only HTML and CSS.
+Recreation of Yelp's front page using only HTML and CSS.
 
 (https://yelp-too.herokuapp.com/)
 
-No JS for:
-  - the search bar suggestions
-  - home services menu
-  - review star coloring on hover
+Mobile-First redesign:
+Yelp's official mobile web app at (m.yelp.com) looks kind of dated, so I took the liberty of mixing in some design cues from the iOS mobile app.
